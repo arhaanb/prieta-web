@@ -40,9 +40,18 @@
 		<br />
 
 		<div class="row">
-			<div class="block seven columns">
+			<div style="padding: 3em" class="block seven columns">
 			<br />
-				<img src="/home.png" draggable="false" alt="" />
+			<br />
+				<!-- <img src="/home.png" draggable="false" alt="" /> -->
+				<h4 class="green zero">List property on our site</h4>
+				<p>Details like sq. feet, location and legal proof need to be submitted.</p>
+
+				<h4 class="green zero">LLC Creation</h4>
+				<p>LLC is named as the owner of the property.</p>
+
+				<h4 class="green zero">Tokenization</h4>
+				<p>Private shares of the LLC are traded, indirectly linking each share to the property.</p>
 			</div>
 			<div class="block five columns">
 				<br />
